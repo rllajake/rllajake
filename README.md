@@ -1,6 +1,6 @@
 # Hey, I'm Jake 👋
 
-I'm a software engineering student based in Arizona. I enjoy building applications, solving problems, and learning through hands-on projects. My long-term goal is to work on a game development team.
+I'm a software engineering student based in Arizona. I enjoy building applications, solving problems, and learning through hands-on projects.
 
 I'm currently looking for software engineering internship opportunities where I can contribute and grow as a developer.
 
