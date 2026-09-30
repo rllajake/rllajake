@@ -6,31 +6,35 @@ I'm currently looking for software engineering internship opportunities where I 
 
 ## 💻 Languages
 
-Java • Python • C++ • C • SQL • Scheme • Prolog
+Java • Python • JavaScript • TypeScript • C++ • C • SQL • HTML • CSS
+
+## 🌐 Application Development
+
+- **Frontend:** React, Next.js, Tailwind CSS, Bootstrap
+
+- **Backend:** Node.js, Express.js
+
+- **APIs:** REST APIs, JSON
+
+- **Web Fundamentals:** Responsive design, accessibility, client-server architecture
+
+## 🗄️ Databases
+
+PostgreSQL • MySQL • SQLite • H2 Database
 
 ## 🛠️ Tools & Technologies
 
-- **Application Development:** JavaFX, JDBC
+- **Version Control:** Git, GitHub
 
-- **Databases:** H2 Database
+- **Development Tools:** VS Code, Chrome DevTools, Postman
 
-- **Development Tools:** VS Code, Maven
+- **Build & Package Tools:** npm, Vite, Maven
+
+- **Deployment:** Vercel, Netlify
+
+- **Desktop Development:** JavaFX, JDBC
 
 - **Modeling & Design:** Astah, UML, SolidWorks
-
-## 🧠 Technical Foundations
-
-- Object-oriented programming
-
-- Data structures and algorithms
-
-- MVC architecture and design patterns
-
-- Relational databases and SQL queries
-
-- Software testing and input validation
-
-- Finite automata and computational theory
 
 ## 🤝 Connect With Me
 
