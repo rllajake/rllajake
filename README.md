@@ -6,7 +6,7 @@ I'm currently looking for software engineering internship opportunities where I 
 
 ## 💻 Languages
 
-Java • Python • JavaScript • TypeScript • C++ • C • SQL • HTML • CSS
+Java • Python • JavaScript • C++ • C • SQL • HTML • CSS
 
 ## 🌐 Application Development
 
@@ -16,21 +16,17 @@ Java • Python • JavaScript • TypeScript • C++ • C • SQL • HTML •
 
 - **APIs:** REST APIs, JSON
 
-- **Web Fundamentals:** Responsive design, accessibility, client-server architecture
-
 ## 🗄️ Databases
 
-PostgreSQL • MySQL • SQLite • H2 Database
+PostgreSQL • H2 Database
 
 ## 🛠️ Tools & Technologies
 
 - **Version Control:** Git, GitHub
 
-- **Development Tools:** VS Code, Chrome DevTools, Postman
-
 - **Build & Package Tools:** npm, Vite, Maven
 
-- **Deployment:** Vercel, Netlify
+- **Deployment:** Vercel, Railway
 
 - **Desktop Development:** JavaFX, JDBC
 
